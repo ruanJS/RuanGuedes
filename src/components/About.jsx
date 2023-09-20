@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Sou um desenvolvedor júnior com uma sólida experiência em desenvolvimento web e móvel. Ao longo da minha carreira, adquiri conhecimento profundo em uma variedade de frameworks e tecnologias, incluindo React, React Native, HTML, CSS e JavaScript.
+        Sou um desenvolvedor júnior com uma sólida experiência em desenvolvimento web e móvel. Ao longo da minha carreira, adquiri conhecimento profundo em uma variedade de frameworks e tecnologias, incluindo React, Bootstrap, Python, Java, React Native, HTML, CSS e JavaScript.
 
         Minha paixão pelo desenvolvimento me levou a enfrentar desafios complexos e aprimorar minhas habilidades rapidamente. Estou comprometido em entregar soluções eficazes e de alta qualidade para atender às necessidades dos clientes.
 
